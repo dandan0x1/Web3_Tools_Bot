@@ -273,9 +273,9 @@ def check_capsolver_balance(api_key):
 
 def main():
     # 优先判断CFBot配置文件是否存在
-    cf_config_path = 'config/cf_config.json'
+    cf_config_path = 'config/xion_cf_config.json'
     if os.path.exists(cf_config_path):
-        print('检测到config/cf_config.json，优先使用CFBot验证...')
+        print('检测到config/xion_cf_config.json，优先使用CFBot验证...')
         cf_bot = CFBot(cf_config_path)
         token = cf_bot.run()
         if not token:
@@ -326,7 +326,7 @@ def main():
         print('🏁 机器人运行结束!')
         return
     else:
-        print('未检测到config/cf_config.json，使用Capsolver验证...')
+        print('未检测到config/xion_cf_config.json，使用Capsolver验证...')
     # 以下为原有Capsolver流程
     print('🚀 启动XION水龙头机器人...\n')
     print(f"⏰ 当前时间: {time.strftime('%Y-%m-%d %H:%M:%S')}")
