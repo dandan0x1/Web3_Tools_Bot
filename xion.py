@@ -15,7 +15,7 @@ CONFIG = {
 }
 
 class CFBot:
-    def __init__(self, config_file='config/cf_config.json'):
+    def __init__(self, config_file='config/xion_cf_config.json'):
         self.config_file = config_file
         self.config = None
         self.urls = []
