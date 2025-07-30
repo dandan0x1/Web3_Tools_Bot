@@ -1,5 +1,5 @@
 # Web3撸毛工具
-## 1、领水
+## 1、自动领水脚本
 
 https://github.com/dandan0x1/Web3_Tools_Bot/tree/main/Faucet%20
 
