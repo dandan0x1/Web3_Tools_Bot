@@ -4,9 +4,11 @@
 https://github.com/dandan0x1/Web3_Tools_Bot/tree/main/Faucet%20
 
 ### 1.1 网站领水
-  1、https://sepolia-faucet.pk910.de/
-  2、https://cloud.google.com/application/web3/faucet/ethereum/sepolia
-  3、https://faucet.quicknode.com/ethereum/sepolia
+1、https://sepolia-faucet.pk910.de/
+
+2、https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+
+3、https://faucet.quicknode.com/ethereum/sepolia
 
 
 ### 1.2 买水
