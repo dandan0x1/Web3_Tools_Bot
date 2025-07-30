@@ -1,0 +1,25 @@
+{
+  "name": "sui-wallet-generator",
+  "version": "1.0.0",
+  "description": "SUI 钱包生成工具",
+  "main": "sui.js",
+  "scripts": {
+    "start": "node sui.js",
+    "generate": "node sui.js",
+    "build": "pkg sui.js --targets node18-macos-x64,node18-linux-x64,node18-win-x64 --output sui-wallet-generator"
+  },
+  "keywords": [
+    "sui",
+    "wallet",
+    "cryptocurrency",
+    "blockchain",
+    "generator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@mysten/sui": "^1.28.0",
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.6"
+  }
+} 
