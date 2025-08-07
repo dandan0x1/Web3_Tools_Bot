@@ -10,6 +10,7 @@ https://github.com/dandan0x1/Web3_Tools_Bot/tree/main/Faucet%20
 
 3、https://faucet.quicknode.com/ethereum/sepolia
 
+4、https://omnihub.xyz/faucet
 
 ### 1.2 买水
 1、https://testnetbridge.com/sepolia
