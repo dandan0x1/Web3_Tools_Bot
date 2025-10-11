@@ -1,0 +1,69 @@
+{
+  "clayton": "https://tonclayton.fun/api/aT83M535-617h-5deb-a17b-6a335a67ffd5",
+  "pineye": "https://api2.pineye.io/api",
+  "memex": "https://memex-preorder.memecore.com",
+  "pocketfi": "https://bot.pocketfi.org",
+  "kat": "https://apiii.katknight.io/api",
+  "pinai": "https://prod-api.pinai.tech",
+  "hivera": "https://app.hivera.org",
+  "midas": "https://api-tg-app.midas.app/api",
+  "animix": "https://pro-api.animix.tech",
+  "puparty": "https://tg-puparty-h5-api.puparty.com/api",
+  "meshchain": "https://api.meshchain.ai/meshmain",
+  "wizzwoods": "https://game-api.wizzwoods.com/api/v1",
+  "uxuy": "https://miniapp.uxuy.one/rpc",
+  "sleep": "https://telegram-api.sleepagotchi.com/v1/tg",
+  "duckChain": "https://aad.duckchain.io",
+  "zoo": "https://api.zoo.team",
+  "tabizoo": "https://api.tabibot.com/api",
+  "tapswap": "https://api.tapswap.club/api",
+  "sosovalue": "https://gw.sosovalue.com/tavern/api/tg/",
+  "capx": "https://api.superapp.capx.ai",
+  "kushempire": "https://api.kushempire.games/api",
+  "xstar": "https://game.xname.app",
+  "magic": "https://www.magicnewton.com/portal/api",
+  "klok": "https://api1-pp.klokapp.ai/v1",
+  "nodego": "https://nodego.ai/api",
+  "aigent": "https://api.qton.xyz/v1",
+  "naoris": "https://naorisprotocol.network/sec-api",
+  "somnia": "https://quest.somnia.network/api",
+  "monadscore": "https://mscore-production.up.railway.app",
+  "parasail": "https://www.parasail.network/api",
+  "byData": "https://mega-api.bydata.app",
+  "flow3": "https://api2.flow3.tech/api",
+  "dos": "https://api.dashboard.3dos.io/api",
+  "quackai": "https://app-api.quackai.ai",
+  "solix": "https://api.solixdepin.net/api",
+
+  "kite": {
+    "agents": {
+      "deployment_Hp4Y88pxNQXwLMPxlLICJZzN": "Kite AI Assistant",
+      "deployment_nC3y3k7zy6gekSZMCSordHu7": "Crypto Price Assistant"
+    },
+    "apis": [
+      {
+        "api": "https://deployment-hp4y88pxnqxwlmpxllicjzzn.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_Hp4Y88pxNQXwLMPxlLICJZzN",
+        "name": "Kite AI Assistant",
+        "questions": []
+      },
+      {
+        "api": "https://deployment-nc3y3k7zy6gekszmcsordhu7.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_nC3y3k7zy6gekSZMCSordHu7",
+        "name": "Crypto Price Assistant",
+        "questions": []
+      },
+      {
+        "api": "https://deployment-sofftlsf9z4fya3qchykaanq.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_SoFftlsf9z4fyA3QCHYkaANq",
+        "name": "Transaction Analyzer",
+        "questions": []
+      }
+    ]
+  },
+  "catopia": "",
+  "kitty": "",
+  "taker": "",
+
+  "copyright": "Dandan Api"
+}
