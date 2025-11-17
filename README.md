@@ -12,6 +12,10 @@ https://github.com/dandan0x1/Web3_Tools_Bot/tree/main/Faucet%20
 
 4、https://omnihub.xyz/faucet
 
+apt
+
+5、https://aptos.dev/zh/network/faucet
+
 ### 1.2 买水
 1、https://testnetbridge.com/sepolia
 
