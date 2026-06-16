@@ -1,4 +1,10 @@
 # Web3撸毛工具
+
+# 加密你的密钥或者组词,怕上门查水表，怕ai读取数据，想做冷钱包的都可以用！
+把每个链的钱包地址复制好，然后删除密钥。secret.key和encrypted.txt分开地方存储，实现一个存钱不花钱的躲猫猫的玩法！
+
+python qb_jiami.py
+
 ## 1、自动领水脚本
 
 https://github.com/dandan0x1/Web3_Tools_Bot/tree/main/Faucet%20
